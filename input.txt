@@ -1,0 +1,338 @@
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870297617644632
+Date:1/24/2023
+Time:12:12:43 PM
+Name: Glizel Condes
+Mobile Number: 09128976094
+Address: Boso2, San Jose, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: 1870
+Shipping Notes: 
+Product Name: Pork Barbecue
+Product Price: ₱165.00
+Quantity:1
+Color:N/A
+Total Price:₱165.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870217359406312
+Date:1/24/2023
+Time:12:14:56 PM
+Name: Gie 
+Mobile Number: 09128976094
+Address: Road 31, Bagong Nayon, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: 1870
+Shipping Notes: 
+Product Name: Boneless Chicken Tocino
+Product Price: ₱80.00
+Quantity:1
+Color:N/A
+Total Price:₱80.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870226610752621
+Date:1/24/2023
+Time:12:16:24 PM
+Name: Wenny
+Mobile Number: O9770771999
+Address: BAGONG NAYON, Bagong Nayon, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: Christianity
+Shipping Notes: 
+Product Name: Tasty Meaty Hotdog with Cheese
+Product Price: ₱70.00
+Quantity:1
+Color:N/A
+Total Price:₱70.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870298561921932
+Date:1/24/2023
+Time:12:17:46 PM
+Name: Yolly
+Mobile Number: 09128976094
+Address: BAGONG NAYON, Bagong Nayon, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: Christianity
+Shipping Notes: 
+Product Name: Pork Barbecue
+Product Price: ₱165.00
+Quantity:1
+Color:N/A
+Total Price:₱165.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870124790162515
+Date:1/24/2023
+Time:12:19:34 PM
+Name: Yolly
+Mobile Number: O9770771999
+Address: SAN ISIDRO, Bagong Nayon, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: Christianity
+Shipping Notes: 
+Product Name: Beef Tapa
+Product Price: ₱105.00
+Quantity:1
+Color:N/A
+Total Price:₱105.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870200381522010
+Date:1/24/2023
+Time:12:22:46 PM
+Name: Jesusa N
+Mobile Number: O9770771999
+Address: SAN ISIDRO, Bagong Nayon, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: Christianity
+Shipping Notes: 
+Product Name: Beef Tapa
+Product Price: ₱105.00
+Quantity:1
+Color:N/A
+Total Price:₱105.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870240874028424
+Date:1/24/2023
+Time:12:24:10 PM
+Name: Jesusa N
+Mobile Number: O9770771999
+Address: SAN ISIDRO, San Isidro, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: 1870
+Shipping Notes: 
+Product Name: Sweet Ham
+Product Price: ₱70.00
+Quantity:1
+Color:N/A
+Total Price:₱70.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870199448088872
+Date:1/24/2023
+Time:12:25:44 PM
+Name: Jesusa N
+Mobile Number: 09128976094
+Address: SAN ISIDRO, San Isidro, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: 1870
+Shipping Notes: 
+Product Name: Skinless Longaniza
+Product Price: ₱70.00
+Quantity:1
+Color:N/A
+Total Price:₱70.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870333738674434
+Date:1/24/2023
+Time:12:27:00 PM
+Name: Judith
+Mobile Number: 09128976094
+Address: SAN ISIDRO, San Isidro, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: 1870
+Shipping Notes: 
+Product Name: Pork Tapa
+Product Price: ₱75.00
+Quantity:1
+Color:N/A
+Total Price:₱75.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870236374609457
+Date:1/24/2023
+Time:12:28:10 PM
+Name: Judith
+Mobile Number: O9770771999
+Address: SAN ISIDRO, San Isidro, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: 1870
+Shipping Notes: 
+Product Name: Original Pork Tocino
+Product Price: ₱75.00
+Quantity:1
+Color:N/A
+Total Price:₱75.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870330935053215
+Date:1/24/2023
+Time:12:29:26 PM
+Name: Judith
+Mobile Number: O9770771999
+Address: SAN ISIDRO, San Isidro, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: 1870
+Shipping Notes: 
+Product Name: Boneless Chicken Tocino
+Product Price: ₱80.00
+Quantity:1
+Color:N/A
+Total Price:₱80.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870910417198175
+Date:1/24/2023
+Time:12:30:53 PM
+Name: Vic
+Mobile Number: 09128976094
+Address: SAN ISIDRO, San Isidro, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: 1870
+Shipping Notes: 
+Product Name: Sweet Ham
+Product Price: ₱70.00
+Quantity:1
+Color:N/A
+Total Price:₱70.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870171761528025
+Date:1/24/2023
+Time:12:31:53 PM
+Name: Vic
+Mobile Number: 09128976094
+Address: SAN ISIDRO, San Isidro, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: 1870
+Shipping Notes: 
+Product Name: Skinless Longaniza
+Product Price: ₱70.00
+Quantity:2
+Color:N/A
+Total Price:₱140.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870872177453308
+Date:1/24/2023
+Time:12:32:58 PM
+Name: Vic
+Mobile Number: 09128976094
+Address: SAN ISIDRO, San Isidro, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: 1870
+Shipping Notes: 
+Product Name: Boneless Chicken Tocino
+Product Price: ₱80.00
+Quantity:1
+Color:N/A
+Total Price:₱80.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870734662247379
+Date:1/24/2023
+Time:12:34:04 PM
+Name: Vic
+Mobile Number: O9770771999
+Address: SAN ISIDRO, San Isidro, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: 1870
+Shipping Notes: 
+Product Name: Original Pork Tocino
+Product Price: ₱75.00
+Quantity:1
+Color:N/A
+Total Price:₱75.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870116283977181
+Date:1/24/2023
+Time:12:35:13 PM
+Name: Vic
+Mobile Number: 09128976094
+Address: SAN ISIDRO, Bagong Nayon, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: 1870
+Shipping Notes: 
+Product Name: Pork Tapa
+Product Price: ₱75.00
+Quantity:1
+Color:N/A
+Total Price:₱75.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870558392716146
+Date:1/24/2023
+Time:12:36:05 PM
+Name: Vic
+Mobile Number: O9770771999
+Address: SAN ISIDRO, San Isidro, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: Christianity
+Shipping Notes: 
+Product Name: Pork Sisig
+Product Price: ₱90.00
+Quantity:1
+Color:N/A
+Total Price:₱90.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870266657417100
+Date:1/24/2023
+Time:12:37:39 PM
+Name: Tes
+Mobile Number: 09128976094
+Address: SAN ISIDRO, San Isidro, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: Christianity
+Shipping Notes: 
+Product Name: Sweet Ham
+Product Price: ₱70.00
+Quantity:1
+Color:N/A
+Total Price:₱70.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870207262865238
+Date:1/24/2023
+Time:12:46:54 PM
+Name: Tes
+Mobile Number: O9770771999
+Address: SAN ISIDRO, San Isidro, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: Christianity
+Shipping Notes: 
+Product Name: Original Pork Tocino
+Product Price: ₱75.00
+Quantity:1
+Color:N/A
+Total Price:₱75.00"
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870171674883073
+Date:1/24/2023
+Time:12:48:53 PM
+Name: Andrea
+Mobile Number: 09128976094
+Address: Dalig, Dalig, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: 1870
+Shipping Notes: 
+Product Name: Pork Barbecue
+Product Price: ₱165.00
+Quantity:1
+Color:N/A
+Total Price:₱165.00"
+
+> ches:
+www.josiesonline.shop
+
+> BreakSoftBot:
+"New Order Placed!:
+Order number:1870271827296922
+Date:1/24/2023
+Time:2:22:01 PM
+Name: Marietta
+Mobile Number: none
+Address: none, Bagong Nayon, Antipolo, Rizal, REGION_IV_A, Philippines
+Postal Code: none
+Shipping Notes: 
+Product Name: Beef Tapa
+Product Price: ₱105.00
+Quantity:1
+Color:N/A
+Total Price:₱105.00"
