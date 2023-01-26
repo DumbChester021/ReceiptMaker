@@ -1,0 +1,49 @@
+Total Orders: 8
+
+Pork Tapa: 1 - 75.0
+Cheesedog: 1 - 65.0
+Original Pork Tocino: 2 - 150.0
+Boneless Chicken Tocino: 1 - 75.0
+Lumpiang Shanghai (30pcs): 2 - 200.0
+Meaty Burger (9pcs): 1 - 65.0
+
+
+Total Price: 640.0
+
+--------------------------
+Name: Cecil Ceniza
+Orders:
+ Cheesedog - x1 - 65.0
+ Original Pork Tocino - x1 - 75.0
+Total Spent: 150.0
+
+--------------------------
+Name: GLIZEL CONDES
+Orders:
+ Boneless Chicken Tocino - x1 - 75.0
+Total Spent: 75.0
+
+--------------------------
+Name: Chesilyn
+Orders:
+ Lumpiang Shanghai (30pcs) - x1 - 100.0
+Total Spent: 100.0
+
+--------------------------
+Name: Jhulz
+Orders:
+ Lumpiang Shanghai (30pcs) - x1 - 100.0
+ Meaty Burger (9pcs) - x1 - 65.0
+Total Spent: 165.0
+
+--------------------------
+Name: Petronila F.Bisnar
+Orders:
+ Pork Tapa - x1 - 75.0
+Total Spent: 75.0
+
+--------------------------
+Name: Petronila Bisnar
+Orders:
+ Original Pork Tocino - x1 - 75.0
+Total Spent: 75.0

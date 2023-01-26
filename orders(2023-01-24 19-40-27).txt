@@ -1,15 +1,24 @@
 Total Orders: 22
 
-Pork Barbecue: 3 - 495.0
+Pork Barbecue: 2 
+pork bbq stick : 1
+
 Boneless Chicken Tocino: 3 - 240.0
-Tasty Meaty Hotdog with Cheese: 1 - 70.0
+
+
 Beef Tapa: 3 - 315.0
+
 Sweet Ham: 3 - 210.0
-Skinless Longaniza: 3 - 210.0
-Pork Tapa: 2 - 150.0
+
 Original Pork Tocino: 3 - 225.0
+
+Skinless Longaniza: 3 - 210.0
+
+Pork Tapa: 2 - 150.0
+
 Pork Sisig: 1 - 90.0
 
+Tasty Meaty Hotdog with Cheese: 1 - 70.0
 
 Total Price: 2005.0
 
