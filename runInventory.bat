@@ -1,0 +1,2 @@
+py inventory.py
+clear
